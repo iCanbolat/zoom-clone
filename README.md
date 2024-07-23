@@ -35,21 +35,21 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-🤖 Introduction
+## 🤖 Introduction
 Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 30 thousand members. It's a place where people help each other out.
 
 
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 Next.js
 TypeScript
 Clerk
 getstream
 shadcn
 Tailwind CSS
-🔋 Features
+## 🔋 Features
 👉 Authentication: Implements authentication and authorization features using Clerk, allowing users to securely log in via social sign-on or traditional email and password methods, while ensuring appropriate access levels and permissions within the platform.
 
 👉 New Meeting: Quickly start a new meeting, configuring camera and microphone settings before joining.
